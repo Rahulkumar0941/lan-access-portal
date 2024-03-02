@@ -1,0 +1,112 @@
+*{
+    margin-top: 0;
+    font-style: Arial;
+    border: border-box;
+    background-color: #fafafa;
+}
+
+.main-code{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.intro {
+    text-align: center;
+    margin-top: 5rem;
+    margin-bottom: 4rem;
+    color: #5c5c5c;
+    font-size: 1rem;
+    font-family: 'SophosSansRegular', sans-serif;
+}
+
+.main{
+    height: 27rem;
+    width: 20rem;
+    border: 1px solid #d7dbdd;
+    background-color: white;
+    border-top-right-radius: 0.3rem;
+    border-top-left-radius: 0.3rem;
+    margin-bottom: 5rem;
+}
+
+.logo-back{
+    background-color: #055bb5;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top-right-radius: 0.3rem;
+    border-top-left-radius: 0.3rem;
+
+}
+.logo{
+    height: 48px;
+    width: 58px;
+    background-image: url(R.png);
+    background-size: cover;
+    background-color: black;
+}
+.h1{
+    margin-top: 0.8rem;
+    color: #055bb5;
+    text-align: center;
+    font-size: 120%;
+    font-weight: normal;
+    background-color: white;
+}
+.access{
+    padding: 28px;
+    background-color: white;
+}
+.username{
+    height: 144px;
+    width: 261px;
+    text-align: center;
+    background-color: white;
+}
+.ph{
+    height: 32px;
+    width: 257px;
+    opacity: 0.5;
+    border: 1px solid #d7dbdd;
+    background-color: white;
+    border-radius: 5px;
+    margin-bottom: 13px;
+    margin-top: 13px;
+}
+.ps{
+    height: 32px;
+    width: 257px;
+    opacity: 0.5;
+    border: 1px solid #d7dbdd;
+    background-color: white;
+    border-radius: 5px;
+    margin-bottom: 13px;
+    margin-top: 13px;
+}
+.button{
+    width: 260px;
+    height: 34px;
+    border: none;
+    background-color: #44ac33;
+    color: #ffffff;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.button a{
+    text-decoration: none;
+    background-color: #44ac33;
+    color: #ffffff;
+}
+.p1{
+    height: 17px;
+    width: 256;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 50px 60px 0px;
+}
+.p1 a{
+    text-decoration: none;
+    color: #1987cb;
+    background-color: white;
+}
